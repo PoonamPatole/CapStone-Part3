@@ -141,7 +141,7 @@ The dashboard is deployed using Streamlit Community Cloud.
 **Live Dashboard URL:**
 
 ```
-Paste your Streamlit Community Cloud URL here after deployment.
+https://capstone-part3-7zc9a84uhwwhgfhjaba7hb.streamlit.app/
 ```
 
 ---
